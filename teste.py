@@ -423,8 +423,6 @@ def main():
                                     st.write(f"**{med[1]}** - {med[2]} às {med[3]}")
                                     if med[5]:
                                         st.caption(f"Obs: {med[5]}")
-                        else:
-                            cols[i].write(" macaososo ")
             
     
     with abas[1]:  # Aba Hoje
